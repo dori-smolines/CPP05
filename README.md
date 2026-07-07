@@ -61,7 +61,7 @@ Each exercise ships with its own `main.cpp`, demonstrating valid and invalid cas
 
 ## Resources
 
-- [Wikipedia — Exception handling (C++)](https://en.wikipedia.org/wiki/Exception_handling)
+- [developpez.com - Les exceptions en C++](https://cpp.developpez.com/cours/cpp/?page=9-les-exceptions-en-cplusplus)
 - General documentation on `std::exception`, `try`/`catch` blocks, and custom exceptions in C++98
 - General documentation on abstract classes combined with exception-based validation
 
